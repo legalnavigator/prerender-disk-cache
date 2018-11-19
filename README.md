@@ -13,6 +13,8 @@ coverage.
 
 Requires node >= 0.11.
 
+The version `1.0.0` of this plugin and all its hotfixes target the prerender phantomjs branch (version `4.4.x`).
+
 ## How it works
 
 This plugin will store all prerendered pages into a filesystem hierarchy.
